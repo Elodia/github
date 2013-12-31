@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8">
+    <title>ThunderBot LoLPOY of 2013</title>
+
+    <link href="style/style.css" rel="stylesheet">
+
+    <script type="text/javascript" src="scripts/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="scripts/jq.js"></script>
+    <script type="text/javascript">
+
+    //<![CDATA[
+    var gs_d=new Date,DoW=gs_d.getDay();gs_d.setDate(gs_d.getDate()-(DoW+6)%7+3);
+    var ms=gs_d.valueOf();gs_d.setMonth(0);gs_d.setDate(4);
+    var gs_r=(Math.round((ms-gs_d.valueOf())/6048E5)+1)*gs_d.getFullYear();
+    var gs_p = (("https:" == document.location.protocol) ? "https://" : "http://");
+    document.write(unescape("%3Cscript src='" + gs_p + "s.gstat.orange.fr/lib/gs.js?"+gs_r+"' type='text/javascript'%3E%3C/script%3E"));
+    //]]>
+    </script>
+  </head>
+  
+
+<body>
+
+
+
+</div>
+
+<div class="content">
+
+    <div class="Text">
+    <div style="text-align: justify;"><span style="color: rgb(255, 102, 0);">2013
+    was a really amazing year for League of Legends. All of us laughed,
+    cried, got excited and cheered through the game. ThunderBot
+    selected 50 people that particulary marked the past 12 months. It's now
+    time for you to choose the one &amp; only LoL Personnality of the
+    Year.&nbsp;2013
+    was a really amazing year for League of Legends. All of us laughed,
+    cried, got excited and cheered through the game. ThunderBot
+    selected 50 people that particulary marked the past 12 months. It's now
+    time for you to choose the one &amp; only LoL Personnality of the
+    Year.&nbsp;2013
+    was a really amazing year for League of Legends. All of us laughed,
+    cried, got excited and cheered through the game. ThunderBot
+    selected 50 people that particulary marked the past 12 months. It's now
+    time for you to choose the one &amp; only LoL Personnality of the
+    Year.&nbsp;2013
+    was a really amazing year for League of Legends. All of us laughed,
+    cried, got excited and cheered through the game. ThunderBot
+    selected 50 people that particulary marked the past 12 months. It's now
+    time for you to choose the one &amp; only LoL Personnality of the
+    Year.&nbsp;2013
+    was a really amazing year for League of Legends. All of us laughed,
+    cried, got excited and cheered through the game. ThunderBot
+    selected 50 people that particulary marked the past 12 months. It's now
+    time for you to choose the one &amp; only LoL Personnality of the
+    Year.&nbsp;2013
+    was a really amazing year for League of Legends. All of us laughed,
+    cried, got excited and cheered through the game. ThunderBot
+    selected 50 people that particulary marked the past 12 months. It's now
+    time for you to choose the one &amp; only LoL Personnality of the
+    Year.&nbsp;
+    </span></div>
+
+    <div class="whoarethey">
+    <table style="border: 2px solid rgb(255, 102, 0); height: 215px; width: 325px;" align="center" border="0" cellpadding="3" cellspacing="4" rules="all">
+
+      <caption style="font-weight: bold; color: rgb(255, 102, 0);"><big><u>Who
+    are
+    they ?</u></big></caption>
+      <tbody>
+
+        <tr>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Alex_Ich" target="_blank">Alex
+    Ich</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Bengi" target="_blank">bengi</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Bjergsen" target="_blank">Bjergsen</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Chauster" target="_blank">Chauster</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/deman" target="_blank">Deman</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Diamondprox" target="_blank">Diamond</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Doubelft" target="_blank">Doublelift</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Dyrus" target="_blank">Dyrus</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Edward" target="_blank">Edward</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Faker" target="_blank">Faker</a></td>
+
+        </tr>
+
+        <tr>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/ForellenLord" target="_blank">ForellenLord</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/HotshotGG" target="_blank">HotShotGG</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/HyrqBot" target="_blank">hyrqBot</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Impact" target="_blank">Impact</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/InSec" target="_blank">inSec</a></td>
+
+          <td style="text-align: center;"><a href="http://www.youtube.com/user/Instalok" target="_blank">Instalok</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Jatt" target="_blank">Jatt</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Joe_Miller" target="_blank">Joe
+    Miller</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Kobe24" target="_blank">Kobe</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Krepo" target="_self">Krepo</a></td>
+
+        </tr>
+
+        <tr>
+
+          <td style="text-align: center;"><a href="http://www.youtube.com/user/xMacsss" target="_blank">MacsHG</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Madlife" target="_blank">MadLife</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Meteos" target="_blank">Meteos</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Misaya" target="_blank">Misaya</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/MonteCristo" target="_blank">MonteCristo</a></td>
+
+          <td style="text-align: center;"><a href="https://twitter.com/RiotMorello" target="_blank">Morello</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Ocelote" target="_blank">ocelote</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/PhantomL0rd">PhantomL0rd</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Phreak" target="_blank">Phreak</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Piglet" target="_blank">Piglet</a></td>
+
+        </tr>
+
+        <tr>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/PoohManDu" target="_blank">PoohManDu</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/PraY" target="_blank">PraY</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Qu1ksh0t" target="_blank">Qu1ksh0t</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Reginald" target="_blank">Reginald</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Sjokz" target="_blank">Sjokz</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/ShLaYa" target="_blank">ShLaYa</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Shy" target="_blank">Shy</a></td>
+
+          <td style="text-align: center;"><a href="http://www.youtube.com/user/WQLFY" target="_blank">Siv
+    HD</a></td>
+
+          <td style="text-align: center;"><a href="http://www.youtube.com/user/gregidot" target="_blank">Sky&nbsp;Williams</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/SOAZ">sOAZ</a></td>
+
+        </tr>
+
+        <tr>
+
+          <td style="text-align: center;"><a href="http://www.youtube.com/user/Sp4zie" target="_blank">Sp4zie</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Tabe" target="_blank">Tabe</a></td>
+
+          <td style="text-align: center;"><a href="http://www.youtube.com/watch?v=_Gz9um3wV1o" target="_blank">Team&nbsp;Siren</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/TheOddOne" target="_blank">TheOddOne</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Toyz" target="_blank">Toyz</a></td>
+
+          <td style="text-align: center;"><a href="https://www.facebook.com/Tricky2g" target="_blank">trick2g</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Uzi_%28Chinese%29" target="_blank">Uzi</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/Wingsofdeathx" target="_blank">wingsofdeaths</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/XPeke" target="_blank">xPeke</a></td>
+
+          <td style="text-align: center;"><a href="http://lol.gamepedia.com/YellOwStaR" target="_blank">YellOwStaR</a></td>
+
+        </tr>
+
+      </tbody>
+    </table>
+
+    </div>
+
+</div>
+</body>
+</html>
